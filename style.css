@@ -67,7 +67,7 @@ table {
     height: 100px;
     color: black;
     padding-top: 15px;
-    border: 1px solid orange;
+    
 }
 .header h1 {
     font-family: 'Press Start 2P', cursive;
@@ -121,7 +121,7 @@ a:link {
     background-color: gold;
     text-align: center;
     padding: 1.8rem 1rem 2rem 1rem;
-    border: 1px solid orange;
+    
 }
 .hero h2 {
     color: white;
@@ -150,7 +150,7 @@ a:link {
     
     color: gray;
     
-    border: 1px solid orange;
+    
 }
 .underfold h3 {
     font-size: 1.3rem;
@@ -176,7 +176,21 @@ a:link {
     margin-bottom: 1.5rem;
 }
 
-
+.footer {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    color: gray;
+    font-size: 0.8rem;
+    padding: 0.8rem;
+    
+}
+.footer .footer-icons {
+    padding: 1rem 0rem;
+}
+.footer .footer-icons i {
+    padding: 0rem 0.4rem;
+}
 
 
 .box {
@@ -185,7 +199,7 @@ a:link {
     background-color: blue;
     color: cornsilk;
     font-size: 23px;
-    border: 1px solid orange;
+    
 }
 
 /*End of Main Styles*/
